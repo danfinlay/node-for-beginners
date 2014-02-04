@@ -4,7 +4,7 @@ node-for-beginners
 A list of resources for Node.js Newbies!
 
 * NodeSchool Learn You Node (http://nodeschool.io) - A command line workshopper course for learning Node.js at your own pace - 1
-* GeddyJS Framework Tutorial (http://geddyjs.org/tutorial.html) - It'll take you from zero node knowledge to a finished CRUD app - 2
+* Art of Node (https://github.com/maxogden/art-of-node) - An evolving open source book for learning Node.js.
 
 ## Adding to this Repo:
 1. Fork the repo
